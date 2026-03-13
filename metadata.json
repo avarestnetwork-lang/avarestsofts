@@ -1,0 +1,9 @@
+{
+  "name": "AvarestSoft",
+  "description": "A complete AI SaaS platform featuring a client dashboard, AI tools, and digital marketing agency features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
